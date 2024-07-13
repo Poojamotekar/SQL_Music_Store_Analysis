@@ -1,5 +1,5 @@
 # SQL_Project_Music_Store_Analysis
-# SQL project to analyze online music store data
+### SQL project to analyze online music store data
 
 ![image](https://github.com/user-attachments/assets/14b037d0-f4c8-4dd0-8df6-91e3bc05ada9)
 
